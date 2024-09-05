@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\first game\\assets\\scripts\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\repeatground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repeatground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\firegun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firegun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Heap.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Heap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Heap.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Heap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Heap.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA7wCgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:47:18.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pathfinding.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Pathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Pathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pathfinding.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAIAwwDQAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:35:55.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Grid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Grid.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Grid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Grid.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:53:59.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Node.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Node.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:52:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswFAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:42:45.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickup.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:27:07.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepeatGround.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\RepeatGround.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepeatGround.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\RepeatGround.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepeatGround.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB8AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:10:58.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwC0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:44:32.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:32:58.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:13:22.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FireGun.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\FireGun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireGun.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\FireGun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireGun.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:15:22.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MoveForward.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveForward.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveForward.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:12:36.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:41:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\First Game\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAA3wA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:34:40.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

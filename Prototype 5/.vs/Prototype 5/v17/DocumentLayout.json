@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\prototype 5\\assets\\scripts\\savesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\prototype 5\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\assets\\scripts\\linedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\linedrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\assets\\scripts\\difficultybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\difficultybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:28:34.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\SaveSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSettings.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\SaveSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:28:26.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LineDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\LineDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LineDrawer.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\LineDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LineDrawer.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAswGUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:35:05.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DifficultyButton.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\DifficultyButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DifficultyButton.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\DifficultyButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DifficultyButton.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:59:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 5\\Assets\\Scripts\\Target.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Target.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:20:08.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

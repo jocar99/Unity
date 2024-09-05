@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Error Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74D14481-1CAA-B9E6-3A06-B2BF16BFB65D}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\error project\\assets\\congratscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D14481-1CAA-B9E6-3A06-B2BF16BFB65D}|Assembly-CSharp.csproj|solutionrelative:assets\\congratscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CongratScript.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Error Project\\Assets\\CongratScript.cs",
+              "RelativeDocumentMoniker": "Assets\\CongratScript.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Error Project\\Assets\\CongratScript.cs",
+              "RelativeToolTip": "Assets\\CongratScript.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:42:11.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

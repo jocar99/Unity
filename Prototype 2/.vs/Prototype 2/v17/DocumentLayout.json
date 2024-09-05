@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\assets\\scripts\\detectcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\prototype 2\\assets\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\prototype 2\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26005786-6F87-D14A-9974-E2C6B23063D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:55:18.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetectCollisions.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\DetectCollisions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectCollisions.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\DetectCollisions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectCollisions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:49:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:27:11.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestroyOutOfBounds.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBounds.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAnwCUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:47:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveForward.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveForward.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveForward.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:38:04.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:05:09.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

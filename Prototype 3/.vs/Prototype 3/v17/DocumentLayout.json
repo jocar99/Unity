@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\prototype 3\\assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\prototype 3\\assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\prototype 3\\assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\prototype 3\\assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|c:\\users\\jovan\\desktop\\programming\\create with code\\prototype 3\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepeatBackgroundX.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:09:26.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:06:20.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveLeftX.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:04:34.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:00:43.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepeatBackground.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Scripts\\RepeatBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepeatBackground.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Scripts\\RepeatBackground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepeatBackground.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:06:42.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:00:21.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveLeft.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveLeft.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveLeft.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:58:21.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Jovan\\Desktop\\Programming\\Create with code\\Prototype 3\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:47:29.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
